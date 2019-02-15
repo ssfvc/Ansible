@@ -1,0 +1,33 @@
+---
+- studentdetails:
+  - name: ramu
+    phNO: 8989898989 
+    email: ramu@gmail.com
+    course: devops
+    address:
+      streetNo: 1
+      pinNo: 500072
+
+  - name: tiru
+    phNO: 8989898998
+    email: tiru@gmail.com
+    course: devops
+    address:
+       streetNo: 1
+       pinNo: 500072
+       
+  - name: tiru
+    phNO: 8989898998
+    email: tiru@gmail.com
+    course: devops
+    address:
+       streetNo: 1
+       pinNo: 500072
+
+  - name: tiru
+    phNO: 8989898998
+    email: tiru@gmail.com
+    course: devops
+    address:
+       streetNo: 1
+       pinNo: 500072
