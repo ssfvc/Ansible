@@ -1,5 +1,5 @@
 ---
-- hsots: all
+- hosts: all
   become: yes
   tasks:
   - name: install git
