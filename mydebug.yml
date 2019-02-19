@@ -1,0 +1,11 @@
+---
+- hosts: webservers
+  become: yes
+  tasks: 
+  - name: i want to know all hosts name
+    command: hostname -f
+    register: myresult
+  - name: display the myresult
+    debug:
+      msg: "{{myresult}}"
+    
