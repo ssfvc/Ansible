@@ -4,3 +4,4 @@ mywebserveronredhat : httpd
 
 myjavaonubuntu : openjdk-6-jre
 myjavaonrehat :  java-1.6.0-openjdk
+mycomname : maha
