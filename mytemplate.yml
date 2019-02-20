@@ -18,6 +18,11 @@
       src:
       dest: /var/www/html/index.html
 
+  - name: i have to restart webserver
+    service:
+      name: apache2
+      state: restarted
+
   
       
     
