@@ -1,0 +1,15 @@
+---
+- hosts: webservers
+  become: yes
+  tasks: 
+  - include_tasks: myfiles.yml
+  - name: i want to instal webserver on ubuntu
+    apt:
+     name: apache2
+     state: present 
+     
+  - name: i want to start webserver
+    service:
+      name: apache2
+      state: started
+    
