@@ -15,7 +15,7 @@
 
   - name: i want to copy index file  into all nodes
     template:
-      src:
+      src: index.j2
       dest: /var/www/html/index.html
 
   - name: i have to restart webserver
