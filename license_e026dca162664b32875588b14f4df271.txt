@@ -1,0 +1,11 @@
+{
+    "company_name": "abcdddasdasdhg", 
+    "contact_email": "maha4iac@gmail.com", 
+    "contact_name": "maha b", 
+    "hostname": "e026dca162664b32875588b14f4df271", 
+    "instance_count": 10, 
+    "license_date": 2119055384, 
+    "license_key": "8e4b682a7020efe91021939cf762aa2694df70b9646f92112f58a3fd1214af5b", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}
